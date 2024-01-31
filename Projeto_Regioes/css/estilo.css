@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('../img/img_fundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+.menu-logo img{
+    height: 45px;
+    width: 45px;
+    margin-top: 30px;
+    margin-left: -100px;
+
+}
+.menu-logo h2{
+    font-family: 'Krona One', sans-serif;
+    font-size: 12px;
+    margin-left: -50px;
+    position: relative;
+    bottom: 30px;
+}
+.menu-titulo h2{
+    font-family: 'Krona One', sans-serif;
+    text-align: center ;
+    margin-top: 60px;
+    font-size: 20px;
+
+}
+.menu-titulo h1{
+    font-family: 'Krona One', sans-serif;
+    text-align: center ;
+    margin-top: 15px;
+    font-size: 100px;
+
+}
+button{
+    background-color: black;
+    font-family: 'Krona One', sans-serif;
+    font-size: 12px;
+    height: 35px;
+    margin-left: 530px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+
+}
+button a {
+    text-decoration: none;
+    color: white;
+
+    
+}
+
